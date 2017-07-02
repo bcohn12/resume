@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 APR 2017 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  26 JUN 2017 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,16 +468,16 @@ File: ts1ybv.fd 2010/07/13 Fontinst v1.933 font definitions for TS1/ybv.
 ) [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
  [3] [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
 
 (./brian.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
 Package rerunfilecheck Info: File `brian.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
  ) 
 Here is how much of TeX's memory you used:
  7399 strings out of 493014
@@ -492,7 +492,7 @@ Here is how much of TeX's memory you used:
 ive/2016/texmf-dist/fonts/type1/arkandis/baskervald/ybvb8a.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/arkandis/baskervald/ybvr8a.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/arkandis/baskervald/ybvri8a.pfb>
-Output written on brian.pdf (4 pages, 83925 bytes).
+Output written on brian.pdf (4 pages, 84022 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
